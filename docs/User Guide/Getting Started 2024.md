@@ -49,8 +49,8 @@ All fields, both required and optional, that appear on this page are defined in 
 | Name | Description |
 | ------------- | ------------- |
 | Child Object | Pick the child object that you want to do your rollup from. |
-| Field to Agregate | The field on the child object that you will be performing a rollup on. |
-| Relationship field | Lists all fields, with relationship fields listed first. You can use any field you need. |
+| Field to Aggregate | The field on the child object that you will be performing a rollup on. |
+| Relationship Field | Lists all fields, with relationship fields listed first. You can use any field you need. |
 
 <img src="../assets/images/dlrs_beta_child_object_fields_v3.png" width="100%" alt="DLRS Beta Child Object Fields">
 
